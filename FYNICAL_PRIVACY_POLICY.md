@@ -89,4 +89,5 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 By using Fynical, you consent to this Privacy Policy. If you do not agree with this policy, please do not use the App.
 
+
 ---
