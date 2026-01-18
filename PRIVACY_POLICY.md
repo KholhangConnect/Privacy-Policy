@@ -83,19 +83,10 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**Email:** [Your Support Email Address]
-**Website:** [Your Website URL] (if applicable)
+**Email:** kholhangconnect@gmail.com
 
 ## Consent
 
 By using Fynical, you consent to this Privacy Policy. If you do not agree with this policy, please do not use the App.
 
 ---
-
-**Note:** This privacy policy should be hosted on a publicly accessible website. You can:
-1. Host it on your own website
-2. Use GitHub Pages
-3. Use any free hosting service
-4. Create a simple HTML page
-
-**Important:** Google Play Console requires a live, publicly accessible URL for the privacy policy.
