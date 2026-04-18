@@ -128,7 +128,9 @@ You can also use the **CONTACT US** section on the website above, or the support
 
 ## 12. Relationship to the in-app policy
 
-A shortened or formatted copy of this policy may also appear **inside the App** (Settings / More → Privacy Policy). If anything differs, the version **published on your official website** (when you maintain one) should be treated as the reference for the latest terms, unless your jurisdiction requires otherwise.
+A shortened or formatted copy of this policy may also appear **inside the App** on the **Privacy Policy** screen. In current builds, open **More → About**, then **Open Privacy Policy** (exact labels may vary by locale).
+
+An up-to-date copy may also appear on the **VANNOI VAH** site: [https://vannoivah.wordpress.com/](https://vannoivah.wordpress.com/). This repository’s **PRIVACY_POLICY.md** is maintained for developers and store listings. If anything differs between the App, this file, and the website, treat the version you **publish on the website** and updates you communicate on **Google Play** as the reference for the latest terms, unless your jurisdiction requires otherwise.
 
 ---
 
