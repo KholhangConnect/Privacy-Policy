@@ -54,6 +54,6 @@ We may update this policy from time to time. The “Last updated” date at the 
 
 For privacy questions, contact us:
 
-- Website: https://vannoivah.wordpress.com/ (Contact Us / feedback)
-- Email: vannoivah@gmail.com
+- Website: na
+- Email: kholhangconnect@gmail.com
 
