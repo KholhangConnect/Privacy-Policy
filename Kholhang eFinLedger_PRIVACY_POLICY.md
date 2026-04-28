@@ -84,5 +84,5 @@ We may update this policy from time to time. The “Last updated” date will re
 
 If you have questions or requests about privacy, contact:
 
-- **Email:** <REPLACE_WITH_SUPPORT_EMAIL>
+- **Email:** kholhangconnect@gmail.com
 
