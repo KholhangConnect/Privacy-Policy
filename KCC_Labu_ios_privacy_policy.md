@@ -1,7 +1,7 @@
 # KCC_Labu_ios — Privacy Policy
 
 **Document ID:** `KCC_Labu_ios`  
-**App:** KCC Labu (iOS) — v5.0  
+**App:** KCC Labu (iOS) — v6.0  
 **Bundle identifier:** `com.vannoivah.kcclabu`  
 **Effective date:** 13 May 2026  
 **Operator / contact:** kholhangconnect@gmail.com; vannoivah@gmail.com  
