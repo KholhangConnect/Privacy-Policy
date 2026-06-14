@@ -82,4 +82,4 @@ We may update this Privacy Policy for the `com.kholhang.school` application. Mat
 
 ## 13. Contact
 
-For data access, correction, or privacy questions, contact your school administrator first. For app-related privacy enquiries, email [privacy@kholhang.school](mailto:privacy@kholhang.school).
+For data access, correction, or privacy questions, contact your school administrator first. For app-related privacy enquiries, email [kholhangconnect@gmail.com](mailto:kholhangconnect@gmail.com).
